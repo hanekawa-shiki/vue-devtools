@@ -1,0 +1,20 @@
+{
+  "name": "@hanekawa/vue-tools",
+  "version": "6.6.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanekawa-shiki/vue-devtools.git"
+  },
+  "keywords": [],
+  "author": "hanekawa-shiki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanekawa-shiki/vue-devtools/issues"
+  },
+  "homepage": "https://github.com/hanekawa-shiki/vue-devtools#readme",
+  "description": ""
+}
