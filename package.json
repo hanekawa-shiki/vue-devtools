@@ -1,6 +1,6 @@
 {
   "name": "@hanekawa/vue-tools",
-  "version": "20.20.1",
+  "version": "22.22.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
